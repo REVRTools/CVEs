@@ -30,4 +30,4 @@ Below is a list of CVEs I've found, reported to teh vendor and checked they are 
 |[CVE-2018-11246](CVE-2018-11246/readme.md) | K7 Antivirus | K7TSMngr.exe |CWE-126:<Br>Buffer Over-Read                                   |               |Arbitary memory disclosure to windows registry
 
 ## K7 Security Note
-For the issues sent to K7 security, they were professional and quickly provided a secure communication channel to one of their Senior Software Architects to resolve the vulnerabilities in their product actively engaging to remove the vulnerabilities.
+For the issues sent to K7 security, they were professional and quickly provided a secure communication channel to one of their Senior Software Architects to resolve the vulnerabilities in their product, actively engaging to remove the vulnerabilities.
