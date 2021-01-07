@@ -9,7 +9,7 @@ Below is a list of CVEs I've found, reported to teh vendor and checked they are 
 |[CVE-2017-16550](CVE-2017-16550/readme.md)	| K7 Antivirus | k7sentry.sys |CWE-120:<br>Buffer Copy without Checking Size of Input         |BSOD           |DeviceIoControl: Output buffer written to without checking length
 |[CVE-2017-16551](CVE-2017-16551/readme.md)	| K7 Antivirus | k7sentry.sys |Logical Flaw                                                   |LPE            |User Mode MEDIUM Integrity to Kernel Mode LPE
 |[CVE-2017-16552](CVE-2017-16552/readme.md) | K7 Antivirus | k7sentry.sys |CWE-120:<br>Buffer Copy without Checking Size of Input         |BSOD           |DeviceIoControl: Output buffer written to without checking length
-|[CVE-2017-16553](CVE-2017-16553/readme.md)	| K7 Antivirus | k7sentry.sys |LLogicalogic Flaw|LPE|User Mode MEDIUM Integrity to Kernel Mode LPE
+|[CVE-2017-16553](CVE-2017-16553/readme.md)	| K7 Antivirus | k7sentry.sys |Logicalogic Flaw|LPE|User Mode MEDIUM Integrity to Kernel Mode LPE
 |[CVE-2017-16554](CVE-2017-16554/readme.md)	| K7 Antivirus | k7sentry.sys |CWE-120:<br>Buffer Copy without Checking Size of Input         |BSOD           |DeviceIoControl: Output buffer written to without checking length
 |[CVE-2017-16555](CVE-2017-16555/readme.md)	| K7 Antivirus | k7sentry.sys |Logical Flaw                                                   |LPE            |User Mode MEDIUM Integrity to Kernel Mode LPE
 |[CVE-2017-16556](CVE-2017-16556/readme.md) | K7 Antivirus | k7sentry.sys |CWE-242:<br>Use of Inherently Dangerous Function               |               |Heap Overflow due to unsafe string handling routines
