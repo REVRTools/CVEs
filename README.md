@@ -1,6 +1,6 @@
 # CVEs
 ## Background
-Below is a list of CVEs I've found, reported to teh vendor and checked they are fixed.
+Below is a list of CVEs I've found, reported to the vendor and checked they are fixed.
 
 # CVE Table
 |CVE                                        |Product       |Component     |Bug Type(s)                                                    |Effect         |Brief Description|
